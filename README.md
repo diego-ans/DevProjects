@@ -1,10 +1,10 @@
 # DevProjects
 Links to things of what i've done
 
-#My main project Who am i:
+#My main project Who am i\
 http://findwhoami.infinityfreeapp.com/
 
-#idk why i made this one:
+#idk why i made this one:\
 https://diego-ans.github.io/zetas/
 
 #An image editor:\
