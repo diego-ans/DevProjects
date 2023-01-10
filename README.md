@@ -4,14 +4,14 @@ Links to things of what i've done
 <h3>My main project Who am i</h3>\
 http://findwhoami.infinityfreeapp.com/
 
-#idk why i made this one:\
+<h3idk why i made this one:</h3>\
 https://diego-ans.github.io/zetas/
 
-#An image editor:\
+<h3An image editor:</h3>\
 https://diego-ans.github.io/imageEditor/
 
-#A "game" inspired of 'Atomic bomber' the game in android:\
-#https://diego-ans.github.io/BomberGame/
+<h3A "game" inspired of 'Atomic bomber' the game in android:</h3>\
+https://diego-ans.github.io/BomberGame/
 
-#This one was fun, a Drawing app:\
+<h3This one was fun, a Drawing app:</h3>\
 https://diego-ans.github.io/DrawingApp/
