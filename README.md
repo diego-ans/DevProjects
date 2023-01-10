@@ -1,7 +1,7 @@
 # DevProjects
 Links to things of what i've done
 
-<h1>My main project Who am i</>\
+<h3>My main project Who am i</h3>\
 http://findwhoami.infinityfreeapp.com/
 
 #idk why i made this one:\
